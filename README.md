@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
+     <a href="https://jbrunops.github.io/rocketseat-cssanimation-site1/">📱 Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
