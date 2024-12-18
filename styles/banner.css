@@ -24,7 +24,7 @@
     );
 
     /* Problemas aqui */
-    background-size: 400%;
+    /* background-size: 400%; */
     background-position: 0 50%;
 
     animation: bg-gradient 20s ease infinite;
